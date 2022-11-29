@@ -4,7 +4,7 @@ import Logo from'../assets/valor-economico.png'
 
 const Footer = () => {
   return (
-    <footer className='max-w-[1240px] mx-auto py-4 px-4 grid text-gray-300'>
+    <footer className='max-w-[1240px] bg-[#0e3d4d] mx-auto py-4 px-4 grid text-gray-300'>
       <div>
         <div className='flex justify-between'>
           <h1 className='w-full pt-0 justify text-sm lg:text-xl font-bold text-white'>Ou ligue para assinar: 0800 701 8888</h1>
